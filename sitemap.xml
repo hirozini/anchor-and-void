@@ -11,10 +11,3 @@
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
-```
-
-**③ robots.txtを作成・アップロード**
-```
-User-agent: *
-Allow: /
-Sitemap: https://anchor-and-void.inunosenakaza.com/sitemap.xml
