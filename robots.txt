@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anchor-and-void.inunosenakaza.com/sitemap.xml
